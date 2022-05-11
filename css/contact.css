@@ -1,0 +1,71 @@
+/* Navbar */
+.nav-link1 {
+  padding: 20px 20px 10px 20px;
+  font-size: 1.2em;
+  position: absolute;
+  left: 350px;
+}
+
+.nav-link2 {
+  padding: 20px 20px 10px 20px;
+  font-size: 1.2em;
+}
+
+.nav-link3 {
+  padding: 20px 20px 10px 20px;
+  font-size: 1.2em;
+}
+
+.nav-linkdisable {
+  padding: 20px 20px 10px 20px;
+  font-size: 1em;
+  position: absolute;
+  right: 0px;
+}
+
+/* Body */
+.head1 {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.container {
+  max-width: 960px;
+}
+
+.socials {
+  text-align: center;
+}
+
+/* Icons */
+/* Navbar Icons */
+.instanav {
+  padding-left: 30px;
+  color: #fd8746;
+}
+
+.tweetnav {
+  padding-left: 30px;
+  color: #1c9bef;
+}
+
+.ytnav {
+  padding-left: 30px;
+  color: red;
+}
+
+/* Body Icons */
+.insta {
+  padding-top: 30px;
+  color: #fd8746;
+}
+
+.tweet {
+  padding-top: 30px;
+  color: #1c9bef;
+}
+
+.yt {
+  padding-top: 30px;
+  color: red;
+}

@@ -1,0 +1,63 @@
+body {
+  background-image: url("ics.jpeg");
+}
+
+/* Navbar */
+.nav-link1 {
+  padding: 20px 20px 10px 20px;
+  font-size: 1.2em;
+  position: absolute;
+  left: 350px;
+}
+
+.nav-link2 {
+  padding: 20px 20px 10px 20px;
+  font-size: 1.2em;
+}
+
+.nav-link3 {
+  padding: 20px 20px 10px 20px;
+  font-size: 1.2em;
+}
+
+.nav-linkdisable {
+  padding: 20px 20px 10px 20px;
+  font-size: 1em;
+  position: absolute;
+  right: 0px;
+}
+
+/* .videos {
+  text-align: center;
+  padding-top: 20px;
+} */
+
+#welcome {
+  padding: 30px 0px;
+  text-align: center;
+}
+
+.history {
+  line-height: 1.5;
+  color: #83BD75;
+}
+
+.hib {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  padding-bottom: 10px;
+  color: #6BCB77;
+}
+
+.hib-yt {
+  float: right;
+}
+
+/* Cards */
+
+.ch-title {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  color: #6BCB77;
+}
