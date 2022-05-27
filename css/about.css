@@ -22,3 +22,61 @@
   position: absolute;
   right: 0px;
 }
+
+/* Body */
+#about-title {
+  text-align: center;
+}
+
+/* About */
+#about {
+  text-align: center;
+  padding: 20px 0px;
+  font-size: 70px;
+}
+
+.pool {
+  width: 700px;
+  height: 100%;
+}
+
+#firstsection {
+  text-align: center;
+  padding: 30px 50px;
+  color: #31b454;
+}
+
+#aboutstory {
+  text-align: center;
+  padding: 30px 50px;
+}
+
+/* Mission & Vision */
+#mandv {
+  text-align: center;
+  background-color: #31b454;
+  height: 100%;
+  width: 100%;
+}
+
+.titlemandv {
+  padding: 50px 0px;
+  color: white;
+  font-size: 40px;
+}
+
+.missiontitle, .visiontitle {
+  color: white;
+  padding: 10px 0px;
+}
+
+.missionstatement, .visionstatement {
+  color: white;
+  padding: 0px 30px 50px;
+}
+
+/* Footer */
+footer {
+  color: #3d3d3d;
+  text-align: center;
+}
